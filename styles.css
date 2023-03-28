@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+
+input {
+    text-align: center;
+    font-size: 2rem;
+    color: blue;
+    margin: 50px auto;
+}
+
+.resetBtn {
+    text-align: center;
+    border: 2px solid #AAA;
+    border-radius: 10px;
+    padding: 20px;
+    display: inline-block;
+    width: 150px;
+}
+
+.resetBtn:hover {
+    background-color: darkgrey;
+}
+
+.btnContainer {
+    margin-top: 100px;
+    text-align: center;
+}
